@@ -267,6 +267,10 @@ span.note {
   margin: 1rem 0;
 }
 
+.scrollable {
+  scroll-margin-top: 100px;
+}
+
 .page-content {
   font-family: "Roboto", sans-serif;
   color: #b6b6b6;
